@@ -15,7 +15,8 @@
 
 ## 👥 Organization
 - Frontend: TODAK-Frontend
-- Backend: (추가 예정)
+- Backend: TODAK-Backend
+- AI : TODAK-AI
 
 ## 📫 Contact
 - todak.app.team@gmail.com
